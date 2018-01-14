@@ -28,12 +28,7 @@ I am using
 Depending on your modificaition, the output is displayed as the result like the image below.
 ![result](https://github.com/Rowing0914/Screenshot_PDF-in-Python/blob/media/demo.gif)
 
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
+## 謝辞
+中村晃一さん、スライドが少々写ってしまいまして申し訳ございません。
+機械学習のスライドと講義を拝聴しまして、大変勉強になりました！
+有難うございます。
